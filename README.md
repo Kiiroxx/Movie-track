@@ -31,3 +31,5 @@ Aplicación web para buscar películas y guardarlas en favoritos.
 
 ## Estado
 En desarrollo
+# Movie-track
+App para buscar películas y guardar favoritas (Full Stack)
